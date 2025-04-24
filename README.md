@@ -10,6 +10,6 @@
 3.	Handling Edge Cases: Prevent the counter from going below zero(optional). Display a message if the counter reaches a certain threshold(e.g., "You've reached the limit!").
 
 Requirements:
-	Use React functional components with hooks (useState).
-	Implement a clean UI with proper styling. 
-	Ensure buttons properly update the state on click.
+-	Use React functional components with hooks (useState).
+-	Implement a clean UI with proper styling. 
+-	Ensure buttons properly update the state on click.
